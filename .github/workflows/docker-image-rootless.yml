@@ -25,4 +25,4 @@ jobs:
           context: .
           push: true
           file: Dockerfile-rootless
-          tags: mohamnag/nginx-file-browser:latest-rootless
+          tags: enselerizer/nginx-file-browser:latest-rootless
