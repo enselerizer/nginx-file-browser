@@ -1,3 +1,6 @@
+# Forked to add some nginx configuration fixes
+This fork addresses an issue with nginx sendfile(), which may fail on hard drives with 4k sector size.
+
 # nginx file browser
 
 This web application is a very simple file browser which can be used
