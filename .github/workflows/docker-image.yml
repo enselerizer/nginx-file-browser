@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: mohamnag/nginx-file-browser:latest
+          tags: enselerizer/nginx-file-browser:latest
